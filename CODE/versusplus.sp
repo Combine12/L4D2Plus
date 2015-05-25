@@ -22,6 +22,12 @@
 #define SOUND_COMMON_B7			"npc/infected/idle/breathing/breathing18.wav"
 #define SOUND_COMMON_B8			"npc/infected/idle/breathing/breathing25.wav"
 #define SOUND_COMMON_B9			"npc/infected/idle/breathing/breathing26.wav"
+#define SOUND_COMMON_B10		"npc/infected/idle/breathing/idle_breath_loop_01.wav"
+#define SOUND_COMMON_B10		"npc/infected/idle/breathing/idle_breath_loop_02.wav"
+#define SOUND_COMMON_B10		"npc/infected/idle/breathing/idle_breath_loop_03.wav"
+#define SOUND_COMMON_B10		"npc/infected/idle/breathing/idle_breath_loop_04.wav"
+#define SOUND_COMMON_B10		"npc/infected/idle/breathing/idle_breath_loop_05.wav"
+#define SOUND_COMMON_B10		"npc/infected/idle/breathing/idle_breath_loop_06.wav"
 
 #define SOUND_COMMON_R1			"npc/infected/idle/alert/becomeenraged/become_enraged01.wav"
 #define SOUND_COMMON_R2			"npc/infected/idle/alert/becomeenraged/become_enraged02.wav"
