@@ -95,3 +95,12 @@
 #define SOUND_WITCH_L1			"npc/witch/hit/hit_slimesplat3.wav"
 #define SOUND_WITCH_L2			"npc/witch/hit/hit_slimesplat4.wav"
 #define SOUND_WITCH_L3			"npc/witch/hit/hit_slimesplat5.wav"
+
+#define SOUND_TANK_B1			"player\tank\voice\idle\tank_breathe_01.wav"
+#define SOUND_TANK_B2			"player\tank\voice\idle\tank_breathe_02.wav"
+#define SOUND_TANK_B3			"player\tank\voice\idle\tank_breathe_03.wav"
+#define SOUND_TANK_B4			"player\tank\voice\idle\tank_breathe_04.wav"
+#define SOUND_TANK_B5			"player\tank\voice\idle\tank_breathe_05.wav"
+#define SOUND_TANK_B6			"player\tank\voice\idle\tank_breathe_06.wav"
+#define SOUND_TANK_B7			"player\tank\voice\idle\tank_breathe_07.wav"
+#define SOUND_TANK_B8			"player\tank\voice\idle\tank_breathe_08.wav"
