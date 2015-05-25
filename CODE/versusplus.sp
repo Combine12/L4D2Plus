@@ -16,6 +16,23 @@
 #define CLASS_WITCH 8
 #define CLASS_COMMON 9
 
+
+//=================================
+//	Survivor Classes (L4D2)
+//=================================
+#define CLASS_SURVIVOR_NICK 1
+#define CLASS_SURVIVOR_COACH 2
+#define CLASS_SURVIVOR_ELLIS 3
+#define CLASS_SURVIVOR_ROCHELLE 4
+
+//=================================
+//	Survivor Classes (L4D1)
+//=================================
+#define CLASS_SURVIVOR_BILL 1
+#define CLASS_SURVIVOR_FRANCIS 2
+#define CLASS_SURVIVOR_LOUIS 3
+#define CLASS_SURVIVOR_ZOE 4
+
 //=================================
 //	Infected Sound Defines START
 //=================================
