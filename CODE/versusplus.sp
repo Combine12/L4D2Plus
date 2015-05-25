@@ -3,6 +3,9 @@
 
 #define PLUGIN_VERSION "1.0"
 
+//=================================
+//	Infected Classes
+//=================================
 #define CLASS_SMOKER 1
 #define CLASS_BOOMER 2
 #define CLASS_HUNTER 3
@@ -13,6 +16,9 @@
 #define CLASS_WITCH 8
 #define CLASS_COMMON 9
 
+//=================================
+//	Infected Sound Defines START
+//=================================
 #define SOUND_COMMON_B1			"npc/infected/idle/breathing/breathing01.wav"
 #define SOUND_COMMON_B2			"npc/infected/idle/breathing/breathing08.wav"
 #define SOUND_COMMON_B3			"npc/infected/idle/breathing/breathing09.wav"
@@ -133,3 +139,7 @@
 #define SOUND_TANK_H8			"player\tank\voice\pain\tank_pain_08.wav"
 #define SOUND_TANK_H9			"player\tank\voice\pain\tank_pain_09.wav"
 #define SOUND_TANK_H10			"player\tank\voice\pain\tank_pain_10.wav"
+
+//=================================
+//	Infected Sound Defines END
+//=================================
