@@ -12,7 +12,6 @@
 #define CLASS_TANK 7
 #define CLASS_WITCH 8
 #define CLASS_COMMON 9
-#define CLASS_LEAKER 10
  
 #define SOUND_COMMON_B1                 "npc/infected/idle/breathing/breathing01.wav"
 #define SOUND_COMMON_B2                 "npc/infected/idle/breathing/breathing08.wav"
