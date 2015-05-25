@@ -104,3 +104,11 @@
 #define SOUND_TANK_B6			"player\tank\voice\idle\tank_breathe_06.wav"
 #define SOUND_TANK_B7			"player\tank\voice\idle\tank_breathe_07.wav"
 #define SOUND_TANK_B8			"player\tank\voice\idle\tank_breathe_08.wav"
+
+#define SOUND_TANK_G1			"player\tank\voice\idle\tank_growl_01.wav"
+#define SOUND_TANK_G2			"player\tank\voice\idle\tank_growl_02.wav"
+#define SOUND_TANK_G3			"player\tank\voice\idle\tank_growl_03.wav"
+#define SOUND_TANK_G4			"player\tank\voice\idle\tank_growl_09.wav"
+#define SOUND_TANK_G5			"player\tank\voice\idle\tank_growl_10.wav"
+#define SOUND_TANK_G6			"player\tank\voice\idle\tank_growl_11.wav"
+#define SOUND_TANK_G7			"player\tank\voice\idle\tank_growl_12.wav"
